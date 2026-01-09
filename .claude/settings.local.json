@@ -5,7 +5,8 @@
       "Bash(git commit:*)",
       "Bash(pandoc:*)",
       "Bash(where:*)",
-      "Bash(npx --yes md-to-pdf:*)"
+      "Bash(npx --yes md-to-pdf:*)",
+      "Bash(python -m http.server:*)"
     ]
   }
 }
