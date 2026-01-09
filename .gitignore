@@ -1,0 +1,21 @@
+# Large binary files
+*.zip
+*.rar
+*.7z
+
+# Mod installers
+*.exe
+*.msi
+
+# Screenshots (optional - uncomment to track)
+# assets/screenshots/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~
